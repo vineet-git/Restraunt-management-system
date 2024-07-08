@@ -1,6 +1,6 @@
 /*
  * Restaurant food Ordering using C linked lists
- * by Amir Raza
+ 
 */
 
 #include<stdio.h>
